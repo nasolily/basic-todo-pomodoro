@@ -2,7 +2,7 @@
 
 # 🌸🍅 Basic To-Do & Pomodoro 🍅🌸
 
-*A cozy productivity app built with HTML, CSS, and JavaScript.*
+*A pink productivity app built with HTML, CSS, and JavaScript.*
 
 [🌐 Live Demo](https://nasolily.github.io/basic-todo-pomodoro/)
 
