@@ -16,17 +16,17 @@ This project is a pastel-themed productivity app that combines a simple to-do li
 
 ## ✨ Features
 
-📝 Add, remove, clear all, and mark completion functions for tasks in a to-do list
+- Add, remove, clear all, and mark completion functions for tasks in a to-do list
 
-🍅 Customizable work & break sessions
+- Customizable work & break sessions
 
-💾 Automatically saves tasks using Local Storage
+- Automatically saves tasks using Local Storage
 
-⏱️ Start, stop, and reset timer with click and alarm audio
+- Start, stop, and reset timer with click and alarm audio
 
-🎀 Cute pastel interface with interactive cursor changes (for fun!)
+- Cute pastel interface with interactive cursor changes (for fun!)
 
-📱 Responsive layout
+- Responsive layout
 
 ---
 
@@ -42,25 +42,25 @@ This project is a pastel-themed productivity app that combines a simple to-do li
 
 ## 🌱 What I Learned
 
-💖 Manipulating the DOM
+- Manipulating the DOM
 
-💖 Handling user input
+- Handling user input
 
-💖 Creating timers with `setInterval()`
+- Creating timers with `setInterval()`
 
-💖 Organizing JavaScript into reusable functions
+- Organizing JavaScript into reusable functions
 
-💖 Updating page content dynamically
+- Updating page content dynamically
 
 ---
 
 ## 🌸 Future Ideas
 
-- 🏷️ Task categories or priorities
-- ☁️ Sync tasks across devices
-- 🔔 Browser notifications when a work or break session ends
-- 📊 Productivity statistics
-- 🌙 Dark mode toggle
+- Task categories or priorities
+- Sync tasks across devices
+- Browser notifications when a work or break session ends
+- Productivity statistics
+- Dark mode toggle
 
 ---
 
